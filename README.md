@@ -2,5 +2,5 @@
 
 follow your passion ~~
 
-nodeJS , pHP 
+nodeJS , pHP , linux
 
