@@ -1,0 +1,13 @@
+<?php
+
+/*
+ * hello world test application
+ * automated
+ *
+ */
+ 
+ <?php
+ 
+ echo "hello world";
+ 
+ ?>
