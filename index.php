@@ -10,6 +10,6 @@
  
  <?php
  
- echo "hello world - check trigger - try 3";
+ echo "hello world - check trigger - try 4";
  
  ?>
