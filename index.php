@@ -6,6 +6,8 @@
  *
  */
  
+ ?>
+ 
  <?php
  
  echo "hello world";
